@@ -2,9 +2,26 @@
 
 Data and code to generate fun images
 
+
+
+
 Dissociation - artificially shredded microbial genomes mash distance from self
-  -uses Fun_w_data.R
+
+    -code: dissociation.R
+
+    -data: *self.csv , check.txt , gtdb.tsv
+
+ 
 Birdsong - Twitter users follower account creation dates
-  -uses twit.R
+
+    -code: birdsong.R
+
+    -data: birdsong.Rdata (acquired from TWitter API)
+
+
 Defection - quality of notable naopore reads
-  -uses ONT_anl.R
+
+    -code: defection.R
+
+    -data: *qhist.txt
+
