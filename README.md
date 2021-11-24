@@ -10,9 +10,9 @@ Data and code to generate fun images
 
 Distributions of intra-genomic (self pairwise comparison) MinHash distances of artificially shredded microbial genomes
 
-    -code: dissociation.R
+    -code: dissociation/dissociation.R
 
-    -data: *self.csv , check.txt , gtdb.tsv
+    -data: dissociation/*self.csv , dissociation/check.txt , dissociation/gtdb.tsv
 
 #
 
@@ -22,9 +22,9 @@ Distributions of intra-genomic (self pairwise comparison) MinHash distances of a
  
 Account creation dates of followers of two scientists arguing on Twitter
 
-    -code: birdsong.R
+    -code: birdsong/birdsong.R
 
-    -data: birdsong.Rdata (acquired from TWitter API)
+    -data: birdsong/birdsong.Rdata (acquired from TWitter API)
 
 #
 
@@ -34,6 +34,6 @@ Account creation dates of followers of two scientists arguing on Twitter
  
 Per base quality of ONT reads described as chimeric, i.e. containing non-retroviral virus sequence(s) integrated into human host genome
 
-    -code: defection.R
+    -code: defection/defection.R
 
-    -data: *qhist.txt
+    -data: defection/*qhist.txt
