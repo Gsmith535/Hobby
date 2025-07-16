@@ -37,3 +37,16 @@ Per base quality of ONT reads described as chimeric, i.e. containing non-retrovi
     -code: defection_datcode/defection.R
 
     -data: defection_datcode/*qhist.txt
+
+#
+
+**Water Wheels**
+
+![Water Wheels image](waterwheels_datcode/WaterWheels.gif)
+ 
+Animated gif of the variation in streamflow over 30 years
+
+    -code: waterwheels_datcode/WaterWheels.R
+
+    -data: waterwheels_datcode/WaterWheels.tsv
+
