@@ -48,7 +48,7 @@ Variation in streamflow over 30 years
 
     -code: waterwheels_datcode/WaterWheels.R
 
-    -data: waterwheels_datcode/WaterWheels.tsv
+    -data: waterwheels_datcode/WaterWheels.tsv (acquired and modified from USGS)
 
 #
 
@@ -60,5 +60,5 @@ INaturalist observation counts of mycoheterotrophic Ericaceae across the US
 
     -code: ericasmear_datcode/EricaSmear.R
 
-    -data: ericasmear_datcode/EricaSmear.tsv and ericasmear_datcode/EricaSmear_tax.tsv
+    -data: ericasmear_datcode/EricaSmear.tsv and ericasmear_datcode/EricaSmear_tax.tsv (both acquired and modified from INaturalist)
 
