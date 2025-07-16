@@ -8,7 +8,7 @@ Data and code to generate fun images
 
 ![Dissociation image](dissociation_datcode/Dissociation_mlt.png)
 
-Distributions of intra-genomic (self pairwise comparison) MinHash distances of artificially shredded microbial genomes
+Distributions of intra-genomic (self pairwise comparison) hash distances of artificially shredded microbial genomes
 
     -code: dissociation_datcode/dissociation.R
 
@@ -44,7 +44,7 @@ Per base quality of ONT reads described as chimeric, i.e. containing non-retrovi
 
 ![Water Wheels image](waterwheels_datcode/WaterWheels.gif)
  
-Animated gif of the variation in streamflow over 30 years
+Variation in streamflow over 30 years
 
     -code: waterwheels_datcode/WaterWheels.R
 
@@ -56,7 +56,7 @@ Animated gif of the variation in streamflow over 30 years
 
 ![Erica Smear image](ericasmear_datcode/EricaSmear.png)
  
-Jittered bubble plot of INaturalist observations of mycoheterotrophic Ericaceae across the US
+INaturalist observation counts of mycoheterotrophic Ericaceae across the US
 
     -code: ericasmear_datcode/EricaSmear.R
 
