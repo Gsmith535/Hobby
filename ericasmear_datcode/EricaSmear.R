@@ -13,10 +13,10 @@ set.seed(42)
 #  mutate(LAT = round(decimalLatitude, digits = 2), 
 #         LON = round(decimalLongitude, digits = 2))
 ##exported for ease of github
-write_tsv(e_obs %>% 
-            filter(countryCode  ==  "US") %>% 
-            select_at(vars(-contains(c("recorded", "identified", "Remark")))),
-          "EricaSmear.tsv")
+#write_tsv(e_obs %>% 
+#            filter(countryCode  ==  "US") %>% 
+#            select_at(vars(-contains(c("recorded", "identified", "Remark")))),
+#          "EricaSmear.tsv")
 e_obs = read_tsv("EricaSmear.tsv")
 
 #e_tax = read_csv("Taxa_230804_inaturalist-taxonomy.dwca/FamilyEricaceae_awkifcolumn9equalsEricaceae_wcolids_taxa.csv")
