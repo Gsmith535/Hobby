@@ -50,3 +50,15 @@ Animated gif of the variation in streamflow over 30 years
 
     -data: waterwheels_datcode/WaterWheels.tsv
 
+#
+
+**Erica Smear**
+
+![Erica Smear image](ericasmear_datcode/EricaSmear.png)
+ 
+Jittered bubble plot of INaturalist observations of mycoheterotrophic Ericaceae across the US
+
+    -code: ericasmear_datcode/EricaSmear.R
+
+    -data: ericasmear_datcode/EricaSmear.tsv and ericasmear_datcode/EricaSmear_tax.tsv
+
