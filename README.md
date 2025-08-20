@@ -1,6 +1,6 @@
-# Hobby
+# Turning data into digital art
 
-Data and code to generate fun images
+Data and code to generate intriguing images from distinct dataset and a variety of dat sources
 
 #
 
